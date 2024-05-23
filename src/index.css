@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.swiper {
+  width: 200px;
+  height: 500px;
+}
+.green{
+  background-color: rgb(128, 218, 76);
+  width: 100%;
+  max-height: max-content;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.w-imgb{
+  width: 10%;
+}
