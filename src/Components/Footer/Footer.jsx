@@ -4,7 +4,7 @@ export default class Footer extends Component {
   render() {
     return (
      <>
-    
+    <div className=' container-fluid'>
     <div className='row bg-body-secondary '>
 <div className='col-3'>
 <h3 className=' text-capitalize fs-5 mt-2 mx-2'>help $information</h3>
@@ -38,6 +38,7 @@ export default class Footer extends Component {
 <a href="" className=' text-decoration-none mb-1  text-secondary'>help improve the asos website</a><br />
 </div>
     </div>
+    </div>
 
     <div className=" text-secondary p-3 bg-secondary-subtle " >
         <div className='row '>
@@ -49,10 +50,10 @@ export default class Footer extends Component {
             <a href="" className=' text-decoration-none mb-1  text-secondary'>Ts &Cs |</a>
             <a href="" className=' text-decoration-none mb-1  text-secondary'>Accessibility</a>
             </div>
-
+            
         </div>
            
-           
+       
         </div>
      </>
     )

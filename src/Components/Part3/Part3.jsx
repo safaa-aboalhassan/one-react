@@ -6,6 +6,7 @@ export default class Part3 extends Component {
     return (
       <div>
         <br />
+        <div className='container'>
         <div class="row w-100 h-100 flex-row-reverse">
 <div class="col-3">
     
@@ -38,6 +39,7 @@ export default class Part3 extends Component {
 <div className='green text-center  p-5  rounded-5 '>
 <h2>UP TO 30% OF TEES,SHORTS AND MORE!</h2>
 <p>limited tim only.Selcted stylesmarkesdown on side</p>
+</div>
 </div>
 {/* part 4 */}
 <div className='container'>

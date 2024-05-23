@@ -13,7 +13,7 @@ export default class Part2 extends Component {
 
 
 
-<video src={video1} width="100%" height="100%" controls="controls"  autoplay="true" title='Ureal Finds,Unreal Summer' />
+<video src={video1} width="100%" height="100%" controls="controls"  autoplay="muted" title='Ureal Finds,Unreal Summer' />
 
 
 
